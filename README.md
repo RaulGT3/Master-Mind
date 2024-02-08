@@ -1,2 +1,2 @@
 # Master-Mind
-#for this project I create the Master Mind game using pythone using a grafic package.
+This project Is the classic Master mind game created with Python using a graphic package to allow me to create the bored using python.
